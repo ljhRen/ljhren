@@ -9,5 +9,5 @@ I am a Web Publisher(UI/Markup Developer) and I live in Seoul. <br>
 <br><br>
 🌱 I’m currently learning <br>
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuejs&logoColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
