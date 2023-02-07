@@ -1,4 +1,4 @@
-## Hi👋, I'm Junghoon Lee
+## 👋Hi, I'm Junghoon Lee
 
 I am a Web Publisher(UI/Markup Developer) and I live in Seoul. <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
